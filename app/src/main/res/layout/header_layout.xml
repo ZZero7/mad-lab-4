@@ -15,14 +15,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="MAD LAB 04"
+        android:text="To do "
         android:textSize="18sp"
         android:textColor="@color/white"
         android:textStyle="bold"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="My description ... "
         android:textColor="@color/white"
         android:textSize="15sp"
         android:layout_marginBottom="16dp"/>

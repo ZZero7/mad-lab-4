@@ -50,11 +50,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/deleteButton"
+            android:backgroundTint="@color/black"
             android:text="Delete"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/updateButton"
+            android:backgroundTint="@color/black"
             android:text="Update"/>
     </LinearLayout>
 </LinearLayout>
